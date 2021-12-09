@@ -18,7 +18,7 @@ import org.json.JSONObject;
  * 
  *
  */
-
+//mon premier commentaire
 public class CallRestWebService {
 
 	public static final String endpoint = "http://ip-api.com/json";
